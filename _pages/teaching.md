@@ -16,8 +16,5 @@ Below is a list of courses I have been involved in as a teaching assistant.
 - [Qualité de développement] Université Côte d’Azur, IUT -  BUT1 INFO
 ---
 
-
-## 🗓️ 2023–2024
-
 - [Environnement Informatique] Université Côte d’Azur, Polytech - PEIP - 1e année
 ---
