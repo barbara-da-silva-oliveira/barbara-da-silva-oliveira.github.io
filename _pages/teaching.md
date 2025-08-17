@@ -7,6 +7,17 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Below is a list of courses I have been involved in as a teaching assistant.
 
-Organize your courses by years, topics, or universities, however you like!
+---
+
+## 🗓️ 2024–2025
+
+- [Qualité de développement] Université Côte d’Azur, IUT -  BUT1 INFO
+---
+
+
+## 🗓️ 2023–2024
+
+- [Environnement Informatique] Université Côte d’Azur, Polytech - PEIP - 1e année
+---
