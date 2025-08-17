@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <strong>PhD Student</strong> @ <a href='univ-cotedazur.fr/'>Université Côte d'Azur, France</a>, @ <a href='https://www.i3s.unice.fr/'>I3S, France</a> @ <a href='https://www.inria.fr/'>Inria, France</a>
+subtitle:  <strong>PhD Student</strong> @ <a href='https://univ-cotedazur.fr/'>Université Côte d'Azur, France</a> @ <a href='https://www.i3s.unice.fr/'>I3S, France</a> @ <a href='https://www.inria.fr/'>Inria, France</a>
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>fname[DOT]lname[AT]inria.fr</p>
