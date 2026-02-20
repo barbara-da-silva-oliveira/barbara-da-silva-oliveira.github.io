@@ -29,6 +29,6 @@ latest_posts:
 
 Hello, I am Barbara 🙋🏻‍♀️
 
-I’m a PhD student in Computer Science at Université Côte d’Azur – I3S – Inria in Nice, working with the <a href="https://team.inria.fr/kairos/">Kairos</a> team, within the pole COMRED.
-My research explores Model-Based Systems Engineering (MBSE) for modeling and simulation of Cyber-physical systems (CPS) and IoT. I'm particuarly interested in robotics, and I’m also curious about telecommunications engineering, machine learning, and cloud computing.
+I’m a PhD student in Computer Science at Université Côte d’Azur, working with the <a href="https://team.inria.fr/kairos/">Kairos</a> team, within the pole COMRED, laboratory <a href='https://www.i3s.unice.fr/'>I3S</a> and <a href='https://www.inria.fr/'>Inria</a> at Sophia Antipolis, France.
+My research explores Model-Based Systems Engineering (MBSE) for modeling and simulation of Cyber-physical systems (CPS). I'm particuarly interested in robotics, and I’m also curious about telecommunications engineering, machine learning, and cloud computing.
 Outside the work, I enjoy connecting with people, practicing sports, meditating, and learning new languages.
