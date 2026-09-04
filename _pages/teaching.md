@@ -12,6 +12,7 @@ Below is a list of courses I have been involved in as a teaching assistant.
 ---
 
 ## 🗓️ 2026 - 2027
+
 - [Bases de l'Informatique] Université Côte d’Azur
 - ---
 
