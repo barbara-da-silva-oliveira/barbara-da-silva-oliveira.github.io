@@ -11,6 +11,14 @@ Below is a list of courses I have been involved in as a teaching assistant.
 
 ---
 
+## 🗓️ 2026 - 2027
+- [Bases de l'Informatique] Université Côte d’Azur
+- ---
+
+- [Système 1] Université Côte d’Azur
+---
+
+
 ## 🗓️ 2024–2025
 
 - [Qualité de développement] Université Côte d’Azur, IUT -  BUT1 INFO
