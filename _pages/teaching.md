@@ -3,7 +3,6 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Below is a list of courses I have been involved in as a teaching assistant.
-.
 nav: true
 nav_order: 6
 ---
